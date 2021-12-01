@@ -1,0 +1,55 @@
+.big{
+    background-image: url(./new.jpg);
+    background:cover;
+}
+a{
+    text-decoration: none;
+    padding: 35px;
+}
+
+.nav{
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px ;
+    text-decoration: none;
+}
+.dropdown {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  .hyd{
+      background-color: rgb(168, 9, 9);
+      color: white;
+      position: absolute;
+      top: 400px;
+      padding: 10px;
+      width: 200px;
+      border-radius: 0px 25px 25px 0px;
+  }
+  .inputbutn{
+   background-color: rgb(170, 12, 12);
+   color: white;
+   position: absolute;
+    left: 250px;
+    padding: 6px;
+    width: 80px;
+    top: 201px;
+    border: none;
+  }
+  .input1{
+   height: 30px;
+   width: 320px;
+   box-shadow: black 10px 10px #8888;
+
+  }
+  .btnnxt{
+      position: absolute;
+      bottom: 0px;
+      padding:10px;
+  }
